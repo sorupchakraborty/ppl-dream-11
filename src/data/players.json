@@ -1,0 +1,110 @@
+[
+    {
+        "playerId": 1,
+        "name": "AB de Villiers",
+        "country": "South Africa",
+        "role": "Batsman",
+        "battingStyle": "Right-hand Bat",
+        "biddingPrice": 160000,
+        "imageURL": "https://i.ibb.co/98szrPd/AB-de-Villiers.png"
+    },
+    {
+        "playerId": 2,
+        "name": "David Warner",
+        "country": "Australia",
+        "role": "Batsman",
+        "battingStyle": "Left-hand Bat",
+        "biddingPrice": 130000,
+        "imageURL": "https://i.ibb.co/1L62vVM/david-warner.png"
+    },
+    {
+        "playerId": 3,
+        "name": "Ben Stokes",
+        "country": "England",
+        "role": "All-rounder",
+        "battingStyle": "Left-hand Bat",
+        "biddingPrice": 115000,
+        "imageURL": "https://i.ibb.co/gDB72XY/Ben-Stokes.png"
+    },
+    {
+        "playerId": 4,
+        "name": "Virat Kohli",
+        "country": "India",
+        "role": "Batsman",
+        "battingStyle": "Right-hand Bat",
+        "biddingPrice": 155000,
+        "imageURL": "https://i.ibb.co/3kSrk8C/Virat-Kohli.png"
+    },
+    {
+        "playerId": 5,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "battingStyle": "Right-hand Bat",
+        "biddingPrice": 90000,
+        "imageURL": "https://i.ibb.co/D1B2HzW/Rashid-Khan.png"
+    },
+    {
+        "playerId": 6,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "role": "All-rounder",
+        "battingStyle": "Left-hand Bat",
+        "biddingPrice": 135000,
+        "imageURL": "https://i.ibb.co/FzddgTD/Shakib-Al-Hasan.png"
+    },
+    {
+        "playerId": 7,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "role": "Bowler",
+        "battingStyle": "Right-hand Bat",
+        "biddingPrice": 100000,
+        "imageURL": "https://i.ibb.co/9VL5HRQ/Jasprit-Bumrah.png"
+    },
+    {
+        "playerId": 8,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "battingStyle": "Right-hand Bat",
+        "biddingPrice": 140000,
+        "imageURL": "https://i.ibb.co/L6k86Kn/Kane-Williamson.png"
+    },
+    {
+        "playerId": 9,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "role": "Bowler",
+        "battingStyle": "Right-hand Bat",
+        "biddingPrice": 120000,
+        "imageURL": "https://i.ibb.co/f2YDDTS/Trent-Boult.png"
+    },
+    {
+        "playerId": 10,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "role": "Bowler",
+        "battingStyle": "Right-hand Bat",
+        "biddingPrice": 110000,
+        "imageURL": "https://i.ibb.co/T8jwxnf/Pat-Cummins.png"
+    },
+    {
+        "playerId": 11,
+        "name": "Joe Root",
+        "country": "England",
+        "role": "Batsman",
+        "battingStyle": "Right-hand Bat",
+        "biddingPrice": 145000,
+        "imageURL": "https://i.ibb.co/vjZB8z0/Joe-Root.png"
+    },
+    {
+        "playerId": 12,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "role": "Wicketkeeper",
+        "battingStyle": "Left-hand Bat",
+        "biddingPrice": 125000,
+        "imageURL": "https://i.ibb.co/SyyqkJk/Quinton-de-Kock.png"
+    }
+]
