@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react';
-import Navbar from './components/Navbar';
-import Banner from './components/Banner';
+import Navbar from './components/Navbar-section';
+import Banner from './components/Banner-section';
 import AvailablePlayers from './components/AvailablePlayers';
-import SelectedPlayers from './components/SelectedPlayers';
-import Newsletter from './components/Newsletter';
-import Footer from './components/Footer';
-import playerData from './data/players.json';
+import SelectedPlayers from './components/SelectedPlayers-section';
+import Newsletter from './components/Newsletter-section';
+import Footer from './components/Footer-section';
+import playerData from './player-data/players.json';
 import { ToastContainer, toast } from 'react-toastify'; ``
 import 'react-toastify/dist/ReactToastify.css';
 import Players from './components/Players';

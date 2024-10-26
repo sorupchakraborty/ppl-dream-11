@@ -14,4 +14,5 @@ The Player Selection App allows users to manage a virtual team by selecting play
 2. **Player Selection with Constraints**: Users can select up to six players, with budget and selection limit constraints enforced for realistic management.
 3. **Real-Time Notifications**: Using React Toastify, users receive immediate feedback on actions like adding players, errors for selection limits, and removal of players.
 
-
+# Live Link
+# https://phl-dream-11.netlify.app/
